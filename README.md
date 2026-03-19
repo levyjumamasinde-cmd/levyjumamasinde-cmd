@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Levy
 
 💻 Python Learner | Aspiring Developer 🚀  
-🙏 Passionate about God and personal growth  
+🙏 Passionate about God and personal growth,Building projects step by step  
 
 ---
 
@@ -36,44 +36,14 @@
 
 ---
 
-## 🛠 Badges
-![Python](https://img.shields.io/badge/Python-3.11-blue)# Hi there 👋, I'm Levy
-
-💻 Python Learner | Aspiring Developer 🚀  
-🙏 Passionate about God and personal growth  
-
----
-
-## 🚀 What I'm Learning
-- Python programming
-- Problem solving
-- Git and GitHub
+## 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge)
 
 ---
 
-## 📂 Projects
-- 🎮 Number Guessing Game (Python)
-
----
-
-## 🎯 Goals
-- Become a skilled programmer
-- Build impactful projects
-- Grow in knowledge and discipline
-
----
-
-## 📫 Connect with me
-- GitHub: [levyjumamasinde-cmd](https://github.com/levyjumamasinde-cmd)
-
----
-
-## 📊 GitHub Stats
-![Levy's GitHub stats](https://github-readme-stats.vercel.app/api?username=levyjumamasinde-cmd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levyjumamasinde-cmd&layout=compact&theme=radical)
-
----
-
-## 🛠 Badges
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+## 🔗 Let’s Connect
+- Twitter / LinkedIn / Portfolio (add if you have)
