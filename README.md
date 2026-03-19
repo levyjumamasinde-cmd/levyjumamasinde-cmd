@@ -26,3 +26,15 @@
 
 ## 📫 Connect with me
 - GitHub: https://github.com/levyjumamasinde-cmd
+
+---
+
+## 📊 GitHub Stats
+![Levy's GitHub stats](https://github-readme-stats.vercel.app/api?username=levyjumamasinde-cmd&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levyjumamasinde-cmd&layout=compact&theme=radical)
+
+---
+
+## 🛠 Badges
+![Python](https://img.shields.io/badge/Python-3.11-blue)
