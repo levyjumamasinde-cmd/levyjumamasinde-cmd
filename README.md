@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Levy
 
-<!--
-**levyjumamasinde-cmd/levyjumamasinde-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Learner | Aspiring Developer 🚀  
+🙏 Passionate about God and personal growth  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+- Python programming
+- Problem solving
+- Git and GitHub
+
+---
+
+## 📂 Projects
+- 🎮 Number Guessing Game (Python)
+
+---
+
+## 🎯 Goals
+- Become a skilled programmer
+- Build impactful projects
+- Grow in knowledge and discipline
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/levyjumamasinde-cmd
