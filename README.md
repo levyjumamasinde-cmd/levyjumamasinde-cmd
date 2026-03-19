@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Levy Juma Masinde
 
 💻 Python & C Learner | Aspiring Developer 🚀  
-🙏 Passionate about God and personal growth  
+🙏 Passionate about God and personal growth  Building projects step by step
 
 ---
 
