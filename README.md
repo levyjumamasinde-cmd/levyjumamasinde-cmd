@@ -24,6 +24,7 @@
 
 [![Number Guessing Game](https://img.shields.io/badge/Number%20Guessing%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)  
 [![Demo](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)
+[![Quiz Game](https://img.shields.io/badge/Quiz%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)
 
 [![Future C Project](https://img.shields.io/badge/Future%20C%20Project-C-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/levyjumamasinde-cmd)
 
