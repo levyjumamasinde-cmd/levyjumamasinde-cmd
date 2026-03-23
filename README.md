@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Levy Juma Masinde
 
 💻 Python & C Learner | Aspiring Developer 🚀  
-🙏 Passionate about God and personal growth  Building projects step by step
+🙏 Passionate about God and personal growth | Building projects step by step
 
 ---
 
@@ -22,18 +22,38 @@
 
 ## 📌 Pinned Projects
 
-[![Number Guessing Game](https://img.shields.io/badge/Number%20Guessing%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)  
-[![Demo](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)
-[![Quiz Game](https://img.shields.io/badge/Quiz%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)
+### 🎮 Number Guessing Game
+[![Number Guessing Game](https://img.shields.io/badge/Number%20Guessing%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)
 
+- Random number generation  
+- User input handling  
+- Limited attempts system  
+- Replay functionality  
+
+---
+
+### 🧠 Quiz Game
+[![Quiz Game](https://img.shields.io/badge/Quiz%20Game-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-quiz-game)
+
+- Multiple choice questions  
+- Timer system ⏱️  
+- Colored interface 🎨  
+- Score tracking with feedback  
+
+---
+
+### 🔜 Future C Project
 [![Future C Project](https://img.shields.io/badge/Future%20C%20Project-C-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/levyjumamasinde-cmd)
+
+- Upcoming C programming projects  
+- Learning large-scale integrated circuits & problem solving  
 
 ---
 
 ## 🎯 Goals
-- Become a skilled programmer
-- Build impactful projects
-- Grow in knowledge and discipline
+- Become a skilled programmer  
+- Build impactful projects  
+- Grow in knowledge and discipline  
 
 ---
 
@@ -79,8 +99,5 @@
 ## 🔹 Dynamic Badges
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=levyjumamasinde-cmd&theme=radical)  
-![Followers](https://img.shields.io/github/followers/levyjumamasinde-cmd?style=social)  
-![Stars](https://img.shields.io/github/stars/levyjumamasinde-cmd?style=social)
-.com/?user=levyjumamasinde-cmd&theme=radical)  
 ![Followers](https://img.shields.io/github/followers/levyjumamasinde-cmd?style=social)  
 ![Stars](https://img.shields.io/github/stars/levyjumamasinde-cmd?style=social)
