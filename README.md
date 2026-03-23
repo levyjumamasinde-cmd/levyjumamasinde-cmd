@@ -23,8 +23,11 @@
 ## 📌 Pinned Projects
 
 ### 🎮 Number Guessing Game
-[![Number Guessing Game](https://img.shields.io/badge/Number%20Guessing%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)
+[![Number Guessing Game](https://img.shields.io/badge/Number%20Guessing%20Game-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)  
+[![Demo](https://media.giphy.com/media/YOUR-GIF-LINK/giphy.gif)](https://github.com/levyjumamasinde-cmd/python-number-guessing-game)  
+[![Run on Replit](https://replit.com/badge/github/levyjumamasinde-cmd/python-number-guessing-game)](https://replit.com/github/levyjumamasinde-cmd/python-number-guessing-game)
 
+**Features:**
 - Random number generation  
 - User input handling  
 - Limited attempts system  
@@ -33,10 +36,12 @@
 ---
 
 ### 🧠 Quiz Game
-[![Quiz Game](https://img.shields.io/badge/Quiz%20Game-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-quiz-game)
+[![Quiz Game](https://img.shields.io/badge/Quiz%20Game-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/levyjumamasinde-cmd/python-quiz-game)  
+[![Demo](https://media.giphy.com/media/YOUR-GIF-LINK/giphy.gif)](https://github.com/levyjumamasinde-cmd/python-quiz-game)  
+[![Run on Replit](https://replit.com/badge/github/levyjumamasinde-cmd/python-quiz-game)](https://replit.com/github/levyjumamasinde-cmd/python-quiz-game)
 
+**Features:**
 - Multiple choice questions  
-- Timer system ⏱️  
 - Colored interface 🎨  
 - Score tracking with feedback  
 
